@@ -112,11 +112,15 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
+    date: "September 2015 - Today"
+    description: "Started studying engineering at the University of Iowa"
   - image: "/img/timeline/WapsieValley.png"
     date: "May 2015"
-    description: "Graduated Highschool"
+    description: "Graduated High School"
+  - image: "/img/timeline/Nasa.png"
+    date: "March 2015"
+    description: "Participated in NASA Space Settlement Design Competition"
+
 
 # First image of the Timeline
 
@@ -146,7 +150,7 @@ author_blurb_image: "/img/author.png"
 social:
   - title: "github"
     url: "https://github.com/TannerBrunscheon"
-  - title: "LinkedIn"
+  - title: "linkedin"
     url: "https://www.linkedin.com/in/tanner-brunscheon-44399b111/"
   - title: "twitter"
     url: "https://twitter.com/Darkagent1"
