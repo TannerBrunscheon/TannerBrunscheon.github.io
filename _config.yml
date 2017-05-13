@@ -63,8 +63,8 @@ me-img: "/img/profile.png"
 ##############################
 # Color the browser elements #
 ##############################
-color-browser: "#000000"
-apple-status-bar-style: "black"
+color-browser: "#5DADE2"
+apple-status-bar-style: "blue"
 
 ################
 # Web app mode #
@@ -144,16 +144,15 @@ author_blurb_image: "/img/author.png"
 ##################
 
 social:
-  - title: "facebook"
-    url: "https://facebook.com/"
-  - title: "twitter"
-    url: "https://twitter.com/"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
-  - title: "rss"
-    url: "/feed.xml"
+    url: "https://github.com/TannerBrunscheon"
+  - title: "LinkedIn"
+    url: "https://www.linkedin.com/in/tanner-brunscheon-44399b111/"
+  - title: "twitter"
+    url: "https://twitter.com/Darkagent1"
+  - title: "facebook"
+    url: "https://www.facebook.com/tanner.brunscheon"
+
 
 ############
 # 404 page #
