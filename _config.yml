@@ -111,9 +111,12 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 2015 - Today"
-    description: "Started studying engineering at the University of Iowa"
+  - image: "/img/timeline/UST.svg.png"
+    date: "June 2016 - August 2016"
+    description: "Studied Abroad in Hong Kong at HKUST"
+  - image: "/img/timeline/University_of_Iowa_seal.png"
+    date: "August 2015 - Today"
+    description: "Started studying software engineering at the University of Iowa"
   - image: "/img/timeline/WapsieValley.png"
     date: "May 2015"
     description: "Graduated High School"
