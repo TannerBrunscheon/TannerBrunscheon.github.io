@@ -56,7 +56,7 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Hello! Welcome to my page!"
-  - text: "I have many projects to find!"
+  - text: "Links are at the bottom of the page!"
 
 me-img: "/img/profile.png"
 
@@ -114,6 +114,9 @@ events:
   - image: "/img/timeline/UST.svg.png"
     date: "June 2016 - August 2016"
     description: "Studied Abroad in Hong Kong at HKUST"
+  - image: "/img/timeline/UST.svg.png"
+    date: "June 2016 - August 2016"
+    description: "Studied Abroad in Hong Kong at HKUST"
   - image: "/img/timeline/University_of_Iowa_seal.png"
     date: "August 2015 - Today"
     description: "Started studying software engineering at the University of Iowa"
@@ -127,7 +130,7 @@ events:
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/timeline.jpg"
 
 ###########
 # Contact #
