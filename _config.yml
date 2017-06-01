@@ -56,7 +56,7 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Hello! Welcome to my page!"
-  - text: "Links are at the bottom of the page!"
+  - text: "Links to my various pages are at the bottom of this page!"
 
 me-img: "/img/profile.png"
 
