@@ -2,11 +2,12 @@
 layout: post
 section-type: post
 title: ThreeBee Project Retrospective
-category: Category
+category: School Project
 tags: [ 'Project', 'Retrospective' ]
 ---
 In this blog post, I thought I would address my thoughts on the project
 that I have just completed for the class fundamentals of software design.
+Code can be found in my github page at the bottom of the index page
 
 [Screens from the completed project](https://drive.google.com/drive/folders/0B2fHBJc2N_HiWVdoX1U2dmFWMTA?usp=sharing)
 
