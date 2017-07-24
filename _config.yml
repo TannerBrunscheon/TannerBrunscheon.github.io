@@ -114,7 +114,7 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/University_of_Iowa_seal.png"
     date: "August 2015 - Today"
-    description: "Started studying software engineering at the University of Iowa"
+    description: "Started studying computer science and engineering at the University of Iowa"
   - image: "/img/timeline/500px-University_of_Iowa_logo_svg.png"
     date: "August 2016 - Current"
     description: "Worked at the University of Iowa, College of Liberal Arts and Sciences as a Student Consultant"
