@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: ThreeBee Project Retrospective
 category: School Project
-tags: [ 'Project', 'Retrospective' ]
+tags: [ 'Project', 'Retrospective', 'School' ]
 ---
 In this blog post, I thought I would address my thoughts on the project
 that I have just completed for the class fundamentals of software design.
